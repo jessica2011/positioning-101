@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    color: rgb(110, 26, 199);
+    font-size: 50px;
+    margin: 0;
+}
+
+.box1 { 
+	position: absolute;
+	top:8px;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+.box2 { 
+	position: absolute;
+	left: 100px;
+	top: 208px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+

@@ -1,0 +1,19 @@
+
+
+.box1 { 
+    position: absolute;
+	top: 10px;
+	right: 10px; 
+	bottom: 10px; 
+	left: 10px; 
+	
+	background: #44accf;
+}
+.box1 div { 
+    position: absolute; 
+	top: 10px;
+	right: 10px; 
+	bottom: 10px; 
+	left: 10px;  
+	background: #ff9c34;
+}

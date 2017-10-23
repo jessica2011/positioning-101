@@ -1,0 +1,14 @@
+main{
+    text-align: justify;
+    width: 900px;
+    margin: 0 auto;
+  }
+footer {
+    text-align: center;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    background: #f95b34;
+    padding: 10px 0;
+  }
